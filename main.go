@@ -1,7 +1,7 @@
 package main
 
 import (
-	"os"
+	"log"
 	"flag"
 	"bytes"
 	"fmt"
@@ -18,7 +18,10 @@ func main() {
 	
 	if *isSrv {
 		fmt.Println("webpush.Run()")
-		os.Exit(webpush.Run())
+		if webpush.Run() < 0 {
+			log.Fatal("Something wrong...")
+		}
+		//os.Exit(webpush.Run())
 	}
 	
 	url := "http://127.0.0.1:8000/send"
