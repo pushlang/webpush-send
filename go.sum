@@ -4,5 +4,5 @@ github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
 github.com/lib/pq v1.8.0 h1:9xohqzkUwzR4Ga4ivdTcawVS89YSDVxXMa3xJX3cGzg=
 github.com/lib/pq v1.8.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
-github.com/pushlang/webpush v1.0.7 h1:9agfw2cp/tMw8WoHMN1UMQ/KynjPGOJkE5OJetboq80=
-github.com/pushlang/webpush v1.0.7/go.mod h1:HI7LAiRKH9gwuZXbml+OyARzMzXX4dD1F4+vk4cwAMA=
+github.com/pushlang/webpush v1.0.11 h1:k2XV7bjFYT7BBw666p+ByI3jfjcvW2UUV6hlC2ZD2ls=
+github.com/pushlang/webpush v1.0.11/go.mod h1:HI7LAiRKH9gwuZXbml+OyARzMzXX4dD1F4+vk4cwAMA=
